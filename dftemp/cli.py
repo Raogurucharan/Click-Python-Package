@@ -35,7 +35,7 @@ def create_project(command, category, pathname ):
     dictionary ={
         "directory_name": "helloworld",
         "file_name": "main",
-        "greeting_recipient": "AsknBidTech"
+        "greeting_recipient": "Aha"
     }
 
     with open("sample1.json", "w") as outfile:   #creating a json file
