@@ -64,15 +64,16 @@ if __name__ == '__main__':
     deleteFile()
 
 
+#Notes;
 
 #os.remove("cookiecutter.json") 
 # python cli.py create project
 # file_name="cookiecutter"
 # file=file_name + ".json"
 # file_path = os.path.join(os.getcwd(), file) 
-#f = open(r"C:\Users\Guru\Desktop\dftemp\dftemp\templates\Test.json", "a")
+#f = open(r"C:\Users\***\Desktop\dftemp\dftemp\templates\Test.json", "a")
 # https://stackoverflow.com/questions/89228/how-to-execute-a-program-or-call-a-system-command
 #os.remove("cookiecutter.json")  #removing file
 #os.remove("sample.json")
- # with open(os.path.join("/dftemp/templates/helloworld", "sample1.json"), 'w') as f:
-    # json.dump(dictionary, f)
+# with open(os.path.join("/dftemp/templates/helloworld", "sample1.json"), 'w') as f:
+# json.dump(dictionary, f)
